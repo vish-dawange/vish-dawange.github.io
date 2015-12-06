@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://vish-dawange.github.io/atom.xml" rel="self"/>
   <link href="http://vish-dawange.github.io/"/>
-  <updated>2015-12-06T19:33:50+05:30</updated>
+  <updated>2015-12-06T19:52:50+05:30</updated>
   <id>http://vish-dawange.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[helloWorld]]></title>
+    <link href="http://vish-dawange.github.io/blog/2015/12/06/helloworld/"/>
+    <updated>2015-12-06T19:45:48+05:30</updated>
+    <id>http://vish-dawange.github.io/blog/2015/12/06/helloworld</id>
+    <content type="html"><![CDATA[<p>This is test file.</p>
+
+<h2>What is Octopress?</h2>
+
+<p>Octopress is <a href="https://github.com/mojombo/jekyll">Jekyll</a> blogging at its finest.</p>
+
+<ol>
+<li><strong>Octopress sports a clean responsive theme</strong> written in semantic HTML5, focused on readability and friendliness toward mobile devices.</li>
+<li><strong>Code blogging is easy and beautiful.</strong> Embed code (with <a href="http://ethanschoonover.com/solarized">Solarized</a> styling) in your posts from gists, jsFiddle or from your filesystem.</li>
+<li><strong>Third party integration is simple</strong> with built-in support for Pinboard, Delicious, GitHub Repositories, Disqus Comments and Google Analytics.</li>
+<li><strong>It&rsquo;s easy to use.</strong> A collection of rake tasks simplifies development and makes deploying a cinch.</li>
+<li><strong>Ships with great plug-ins</strong> some original and others from the Jekyll community &mdash; tested and improved.</li>
+</ol>
+
+
+<p><strong>Note</strong>: Octopress requires a minimum Ruby version of <code>1.9.3-p0</code>.</p>
+
+<h2>Documentation</h2>
+
+<p>Check out <a href="http://octopress.org/docs">Octopress.org</a> for guides and documentation.
+It should all apply to our current stable version (found in the <code>master</code>
+branch). If this is not the case, <a href="https://github.com/octopress/docs">please submit a
+fix to our docs repo</a>.</p>
+]]></content>
+  </entry>
   
 </feed>
